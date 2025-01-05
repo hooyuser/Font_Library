@@ -1,0 +1,531 @@
+[[fonts]]
+family_name = "Computer Modern Symbol"
+style = "Normal"
+weight = 500
+stretch = 1000
+path = "CMSY10/CMSY10.otf"
+
+[[fonts]]
+family_name = "Geologica"
+style = "Normal"
+weight = 400
+stretch = 1000
+path = "Geologica/Geologica-Regular.ttf"
+
+[[fonts]]
+family_name = "Latin Modern Sans"
+style = "Normal"
+weight = 400
+stretch = 1000
+path = "Imsans10/lmsans10-regular.otf"
+
+[[fonts]]
+family_name = "Latin Modern Sans"
+style = "Normal"
+weight = 700
+stretch = 1000
+path = "Imsans10/lmsans10-bold.otf"
+
+[[fonts]]
+family_name = "Lato"
+style = "Normal"
+weight = 250
+stretch = 1000
+path = "Lato/Lato-Thin.ttf"
+
+[[fonts]]
+family_name = "Lato"
+style = "Normal"
+weight = 300
+stretch = 1000
+path = "Lato/Lato-Light.ttf"
+
+[[fonts]]
+family_name = "Lato"
+style = "Normal"
+weight = 400
+stretch = 1000
+path = "Lato/Lato-Regular.ttf"
+
+[[fonts]]
+family_name = "Lato"
+style = "Normal"
+weight = 700
+stretch = 1000
+path = "Lato/Lato-Bold.ttf"
+
+[[fonts]]
+family_name = "Lato"
+style = "Normal"
+weight = 900
+stretch = 1000
+path = "Lato/Lato-Black.ttf"
+
+[[fonts]]
+family_name = "Lato"
+style = "Italic"
+weight = 250
+stretch = 1000
+path = "Lato/Lato-ThinItalic.ttf"
+
+[[fonts]]
+family_name = "Lato"
+style = "Italic"
+weight = 300
+stretch = 1000
+path = "Lato/Lato-LightItalic.ttf"
+
+[[fonts]]
+family_name = "Lato"
+style = "Italic"
+weight = 400
+stretch = 1000
+path = "Lato/Lato-Italic.ttf"
+
+[[fonts]]
+family_name = "Lato"
+style = "Italic"
+weight = 700
+stretch = 1000
+path = "Lato/Lato-BoldItalic.ttf"
+
+[[fonts]]
+family_name = "Lato"
+style = "Italic"
+weight = 900
+stretch = 1000
+path = "Lato/Lato-BlackItalic.ttf"
+
+[[fonts]]
+family_name = "Montserrat"
+style = "Normal"
+weight = 100
+stretch = 1000
+path = "Montserrat/Montserrat-VariableFont_wght.ttf"
+
+[[fonts]]
+family_name = "Montserrat"
+style = "Normal"
+weight = 250
+stretch = 1000
+path = "Montserrat/static/Montserrat-Thin.ttf"
+
+[[fonts]]
+family_name = "Montserrat"
+style = "Normal"
+weight = 300
+stretch = 1000
+path = "Montserrat/static/Montserrat-Light.ttf"
+
+[[fonts]]
+family_name = "Montserrat"
+style = "Normal"
+weight = 400
+stretch = 1000
+path = "Montserrat/static/Montserrat-Regular.ttf"
+
+[[fonts]]
+family_name = "Montserrat"
+style = "Normal"
+weight = 500
+stretch = 1000
+path = "Montserrat/static/Montserrat-Medium.ttf"
+
+[[fonts]]
+family_name = "Montserrat"
+style = "Normal"
+weight = 600
+stretch = 1000
+path = "Montserrat/static/Montserrat-SemiBold.ttf"
+
+[[fonts]]
+family_name = "Montserrat"
+style = "Normal"
+weight = 700
+stretch = 1000
+path = "Montserrat/static/Montserrat-Bold.ttf"
+
+[[fonts]]
+family_name = "Montserrat"
+style = "Normal"
+weight = 800
+stretch = 1000
+path = "Montserrat/static/Montserrat-ExtraBold.ttf"
+
+[[fonts]]
+family_name = "Montserrat"
+style = "Normal"
+weight = 900
+stretch = 1000
+path = "Montserrat/static/Montserrat-Black.ttf"
+
+[[fonts]]
+family_name = "Montserrat"
+style = "Italic"
+weight = 100
+stretch = 1000
+path = "Montserrat/Montserrat-Italic-VariableFont_wght.ttf"
+
+[[fonts]]
+family_name = "Montserrat"
+style = "Italic"
+weight = 250
+stretch = 1000
+path = "Montserrat/static/Montserrat-ExtraLightItalic.ttf"
+
+[[fonts]]
+family_name = "Montserrat"
+style = "Italic"
+weight = 300
+stretch = 1000
+path = "Montserrat/static/Montserrat-LightItalic.ttf"
+
+[[fonts]]
+family_name = "Montserrat"
+style = "Italic"
+weight = 400
+stretch = 1000
+path = "Montserrat/static/Montserrat-Italic.ttf"
+
+[[fonts]]
+family_name = "Montserrat"
+style = "Italic"
+weight = 500
+stretch = 1000
+path = "Montserrat/static/Montserrat-MediumItalic.ttf"
+
+[[fonts]]
+family_name = "Montserrat"
+style = "Italic"
+weight = 600
+stretch = 1000
+path = "Montserrat/static/Montserrat-SemiBoldItalic.ttf"
+
+[[fonts]]
+family_name = "Montserrat"
+style = "Italic"
+weight = 700
+stretch = 1000
+path = "Montserrat/static/Montserrat-BoldItalic.ttf"
+
+[[fonts]]
+family_name = "Montserrat"
+style = "Italic"
+weight = 800
+stretch = 1000
+path = "Montserrat/static/Montserrat-ExtraBoldItalic.ttf"
+
+[[fonts]]
+family_name = "Montserrat"
+style = "Italic"
+weight = 900
+stretch = 1000
+path = "Montserrat/static/Montserrat-BlackItalic.ttf"
+
+[[fonts]]
+family_name = "New Computer Modern Sans"
+style = "Normal"
+weight = 400
+stretch = 1000
+path = "NewCMSans10/NewCMSans10-Regular.otf"
+
+[[fonts]]
+family_name = "New Computer Modern Sans"
+style = "Normal"
+weight = 450
+stretch = 1000
+path = "NewCMSans10/NewCMSans10-Book.otf"
+
+[[fonts]]
+family_name = "New Computer Modern Sans"
+style = "Normal"
+weight = 700
+stretch = 1000
+path = "NewCMSans10/NewCMSans10-Bold.otf"
+
+[[fonts]]
+family_name = "Noto Sans"
+style = "Normal"
+weight = 400
+stretch = 1000
+path = "NotoSans/NotoSans-Regular.ttf"
+
+[[fonts]]
+family_name = "Noto Sans"
+style = "Normal"
+weight = 500
+stretch = 1000
+path = "NotoSans/NotoSans-Medium.ttf"
+
+[[fonts]]
+family_name = "Noto Sans"
+style = "Normal"
+weight = 600
+stretch = 1000
+path = "NotoSans/NotoSans-SemiBold.ttf"
+
+[[fonts]]
+family_name = "Noto Sans"
+style = "Normal"
+weight = 700
+stretch = 1000
+path = "NotoSans/NotoSans-Bold.ttf"
+
+[[fonts]]
+family_name = "Noto Sans Display"
+style = "Normal"
+weight = 500
+stretch = 1000
+path = "NotoSansDisplay/NotoSansDisplay-Medium.ttf"
+
+[[fonts]]
+family_name = "Noto Sans Mono"
+style = "Normal"
+weight = 400
+stretch = 1000
+path = "NotoSansMono/NotoSansMono-Regular.ttf"
+
+[[fonts]]
+family_name = "Noto Sans SC"
+style = "Normal"
+weight = 250
+stretch = 1000
+path = "NotoSansSC/NotoSansSC-ExtraLight.ttf"
+
+[[fonts]]
+family_name = "Noto Sans SC"
+style = "Normal"
+weight = 300
+stretch = 1000
+path = "NotoSansSC/NotoSansSC-Light.ttf"
+
+[[fonts]]
+family_name = "Noto Sans SC"
+style = "Normal"
+weight = 400
+stretch = 1000
+path = "NotoSansSC/NotoSansSC-Regular.ttf"
+
+[[fonts]]
+family_name = "Noto Sans SC"
+style = "Normal"
+weight = 500
+stretch = 1000
+path = "NotoSansSC/NotoSansSC-Medium.ttf"
+
+[[fonts]]
+family_name = "Noto Sans SC"
+style = "Normal"
+weight = 600
+stretch = 1000
+path = "NotoSansSC/NotoSansSC-SemiBold.ttf"
+
+[[fonts]]
+family_name = "Noto Sans SC"
+style = "Normal"
+weight = 700
+stretch = 1000
+path = "NotoSansSC/NotoSansSC-Bold.ttf"
+
+[[fonts]]
+family_name = "Noto Sans SC"
+style = "Normal"
+weight = 800
+stretch = 1000
+path = "NotoSansSC/NotoSansSC-ExtraBold.ttf"
+
+[[fonts]]
+family_name = "Noto Sans SC"
+style = "Normal"
+weight = 900
+stretch = 1000
+path = "NotoSansSC/NotoSansSC-Black.ttf"
+
+[[fonts]]
+family_name = "Noto Serif"
+style = "Normal"
+weight = 500
+stretch = 1000
+path = "NotoSerif/NotoSerif-Medium.ttf"
+
+[[fonts]]
+family_name = "Poppins"
+style = "Normal"
+weight = 250
+stretch = 1000
+path = "Poppins/Poppins-Thin.ttf"
+
+[[fonts]]
+family_name = "Poppins"
+style = "Normal"
+weight = 275
+stretch = 1000
+path = "Poppins/Poppins-ExtraLight.ttf"
+
+[[fonts]]
+family_name = "Poppins"
+style = "Normal"
+weight = 300
+stretch = 1000
+path = "Poppins/Poppins-Light.ttf"
+
+[[fonts]]
+family_name = "Poppins"
+style = "Normal"
+weight = 400
+stretch = 1000
+path = "Poppins/Poppins-Regular.ttf"
+
+[[fonts]]
+family_name = "Poppins"
+style = "Normal"
+weight = 500
+stretch = 1000
+path = "Poppins/Poppins-Medium.ttf"
+
+[[fonts]]
+family_name = "Poppins"
+style = "Normal"
+weight = 600
+stretch = 1000
+path = "Poppins/Poppins-SemiBold.ttf"
+
+[[fonts]]
+family_name = "Poppins"
+style = "Normal"
+weight = 700
+stretch = 1000
+path = "Poppins/Poppins-Bold.ttf"
+
+[[fonts]]
+family_name = "Poppins"
+style = "Normal"
+weight = 800
+stretch = 1000
+path = "Poppins/Poppins-ExtraBold.ttf"
+
+[[fonts]]
+family_name = "Poppins"
+style = "Normal"
+weight = 900
+stretch = 1000
+path = "Poppins/Poppins-Black.ttf"
+
+[[fonts]]
+family_name = "Poppins"
+style = "Italic"
+weight = 250
+stretch = 1000
+path = "Poppins/Poppins-ThinItalic.ttf"
+
+[[fonts]]
+family_name = "Poppins"
+style = "Italic"
+weight = 275
+stretch = 1000
+path = "Poppins/Poppins-ExtraLightItalic.ttf"
+
+[[fonts]]
+family_name = "Poppins"
+style = "Italic"
+weight = 300
+stretch = 1000
+path = "Poppins/Poppins-LightItalic.ttf"
+
+[[fonts]]
+family_name = "Poppins"
+style = "Italic"
+weight = 400
+stretch = 1000
+path = "Poppins/Poppins-Italic.ttf"
+
+[[fonts]]
+family_name = "Poppins"
+style = "Italic"
+weight = 500
+stretch = 1000
+path = "Poppins/Poppins-MediumItalic.ttf"
+
+[[fonts]]
+family_name = "Poppins"
+style = "Italic"
+weight = 600
+stretch = 1000
+path = "Poppins/Poppins-SemiBoldItalic.ttf"
+
+[[fonts]]
+family_name = "Poppins"
+style = "Italic"
+weight = 700
+stretch = 1000
+path = "Poppins/Poppins-BoldItalic.ttf"
+
+[[fonts]]
+family_name = "Poppins"
+style = "Italic"
+weight = 800
+stretch = 1000
+path = "Poppins/Poppins-ExtraBoldItalic.ttf"
+
+[[fonts]]
+family_name = "Poppins"
+style = "Italic"
+weight = 900
+stretch = 1000
+path = "Poppins/Poppins-BlackItalic.ttf"
+
+[[fonts]]
+family_name = "STIX Two Text"
+style = "Normal"
+weight = 400
+stretch = 1000
+path = "STIXTwoText/STIXTwoText-Regular.otf"
+
+[[fonts]]
+family_name = "STIX Two Text"
+style = "Normal"
+weight = 500
+stretch = 1000
+path = "STIXTwoText/STIXTwoText-Medium.otf"
+
+[[fonts]]
+family_name = "STIX Two Text"
+style = "Normal"
+weight = 600
+stretch = 1000
+path = "STIXTwoText/STIXTwoText-SemiBold.otf"
+
+[[fonts]]
+family_name = "STIX Two Text"
+style = "Normal"
+weight = 700
+stretch = 1000
+path = "STIXTwoText/STIXTwoText-Bold.otf"
+
+[[fonts]]
+family_name = "STIX Two Text"
+style = "Italic"
+weight = 400
+stretch = 1000
+path = "STIXTwoText/STIXTwoText-Italic.otf"
+
+[[fonts]]
+family_name = "STIX Two Text"
+style = "Italic"
+weight = 500
+stretch = 1000
+path = "STIXTwoText/STIXTwoText-MediumItalic.otf"
+
+[[fonts]]
+family_name = "STIX Two Text"
+style = "Italic"
+weight = 600
+stretch = 1000
+path = "STIXTwoText/STIXTwoText-SemiBoldItalic.otf"
+
+[[fonts]]
+family_name = "STIX Two Text"
+style = "Italic"
+weight = 700
+stretch = 1000
+path = "STIXTwoText/STIXTwoText-BoldItalic.otf"
