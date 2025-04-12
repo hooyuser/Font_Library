@@ -13,6 +13,13 @@ stretch = 1000
 path = "Geologica/Geologica-Regular.ttf"
 
 [[fonts]]
+family_name = "Icon Design"
+style = "Normal"
+weight = 400
+stretch = 1000
+path = "IconDesign/IconDesign-Regular.otf"
+
+[[fonts]]
 family_name = "Latin Modern Sans"
 style = "Normal"
 weight = 400
@@ -274,9 +281,114 @@ path = "NotoSans/NotoSans-Bold.ttf"
 [[fonts]]
 family_name = "Noto Sans Display"
 style = "Normal"
+weight = 250
+stretch = 1000
+path = "NotoSansDisplay/NotoSansDisplay-ExtraLight.ttf"
+
+[[fonts]]
+family_name = "Noto Sans Display"
+style = "Normal"
+weight = 300
+stretch = 1000
+path = "NotoSansDisplay/NotoSansDisplay-Light.ttf"
+
+[[fonts]]
+family_name = "Noto Sans Display"
+style = "Normal"
+weight = 400
+stretch = 1000
+path = "NotoSansDisplay/NotoSansDisplay-Regular.ttf"
+
+[[fonts]]
+family_name = "Noto Sans Display"
+style = "Normal"
 weight = 500
 stretch = 1000
 path = "NotoSansDisplay/NotoSansDisplay-Medium.ttf"
+
+[[fonts]]
+family_name = "Noto Sans Display"
+style = "Normal"
+weight = 600
+stretch = 1000
+path = "NotoSansDisplay/NotoSansDisplay-SemiBold.ttf"
+
+[[fonts]]
+family_name = "Noto Sans Display"
+style = "Normal"
+weight = 700
+stretch = 1000
+path = "NotoSansDisplay/NotoSansDisplay-Bold.ttf"
+
+[[fonts]]
+family_name = "Noto Sans Display"
+style = "Normal"
+weight = 800
+stretch = 1000
+path = "NotoSansDisplay/NotoSansDisplay-ExtraBold.ttf"
+
+[[fonts]]
+family_name = "Noto Sans Display"
+style = "Normal"
+weight = 900
+stretch = 1000
+path = "NotoSansDisplay/NotoSansDisplay-Black.ttf"
+
+[[fonts]]
+family_name = "Noto Sans Display"
+style = "Italic"
+weight = 250
+stretch = 1000
+path = "NotoSansDisplay/NotoSansDisplay-ExtraLightItalic.ttf"
+
+[[fonts]]
+family_name = "Noto Sans Display"
+style = "Italic"
+weight = 300
+stretch = 1000
+path = "NotoSansDisplay/NotoSansDisplay-LightItalic.ttf"
+
+[[fonts]]
+family_name = "Noto Sans Display"
+style = "Italic"
+weight = 400
+stretch = 1000
+path = "NotoSansDisplay/NotoSansDisplay-Italic.ttf"
+
+[[fonts]]
+family_name = "Noto Sans Display"
+style = "Italic"
+weight = 500
+stretch = 1000
+path = "NotoSansDisplay/NotoSansDisplay-MediumItalic.ttf"
+
+[[fonts]]
+family_name = "Noto Sans Display"
+style = "Italic"
+weight = 600
+stretch = 1000
+path = "NotoSansDisplay/NotoSansDisplay-SemiBoldItalic.ttf"
+
+[[fonts]]
+family_name = "Noto Sans Display"
+style = "Italic"
+weight = 700
+stretch = 1000
+path = "NotoSansDisplay/NotoSansDisplay-BoldItalic.ttf"
+
+[[fonts]]
+family_name = "Noto Sans Display"
+style = "Italic"
+weight = 800
+stretch = 1000
+path = "NotoSansDisplay/NotoSansDisplay-ExtraBoldItalic.ttf"
+
+[[fonts]]
+family_name = "Noto Sans Display"
+style = "Italic"
+weight = 900
+stretch = 1000
+path = "NotoSansDisplay/NotoSansDisplay-BlackItalic.ttf"
 
 [[fonts]]
 family_name = "Noto Sans Mono"
