@@ -20,6 +20,13 @@ stretch = 1000
 path = "IconDesign/IconDesign-Regular.otf"
 
 [[fonts]]
+family_name = "Inter 18pt"
+style = "Normal"
+weight = 600
+stretch = 1000
+path = "Intel/Inter_18pt-SemiBold.ttf"
+
+[[fonts]]
 family_name = "Latin Modern Sans"
 style = "Normal"
 weight = 400
