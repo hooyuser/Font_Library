@@ -1,4 +1,60 @@
 [[fonts]]
+family_name = "Baskervville"
+style = "Normal"
+weight = 400
+stretch = 1000
+path = "Baskervville/Baskervville-Regular.ttf"
+
+[[fonts]]
+family_name = "Baskervville"
+style = "Normal"
+weight = 500
+stretch = 1000
+path = "Baskervville/Baskervville-Medium.ttf"
+
+[[fonts]]
+family_name = "Baskervville"
+style = "Normal"
+weight = 600
+stretch = 1000
+path = "Baskervville/Baskervville-SemiBold.ttf"
+
+[[fonts]]
+family_name = "Baskervville"
+style = "Normal"
+weight = 700
+stretch = 1000
+path = "Baskervville/Baskervville-Bold.ttf"
+
+[[fonts]]
+family_name = "Baskervville"
+style = "Italic"
+weight = 400
+stretch = 1000
+path = "Baskervville/Baskervville-Italic.ttf"
+
+[[fonts]]
+family_name = "Baskervville"
+style = "Italic"
+weight = 500
+stretch = 1000
+path = "Baskervville/Baskervville-MediumItalic.ttf"
+
+[[fonts]]
+family_name = "Baskervville"
+style = "Italic"
+weight = 600
+stretch = 1000
+path = "Baskervville/Baskervville-SemiBoldItalic.ttf"
+
+[[fonts]]
+family_name = "Baskervville"
+style = "Italic"
+weight = 700
+stretch = 1000
+path = "Baskervville/Baskervville-BoldItalic.ttf"
+
+[[fonts]]
 family_name = "Computer Modern Symbol"
 style = "Normal"
 weight = 500
@@ -648,3 +704,17 @@ style = "Italic"
 weight = 700
 stretch = 1000
 path = "STIXTwoText/STIXTwoText-BoldItalic.otf"
+
+[[fonts]]
+family_name = "Satoshi"
+style = "Normal"
+weight = 500
+stretch = 1000
+path = "Satoshi/Satoshi-Medium.otf"
+
+[[fonts]]
+family_name = "Satoshi"
+style = "Normal"
+weight = 700
+stretch = 1000
+path = "Satoshi/Satoshi-Bold.otf"
