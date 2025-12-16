@@ -62,6 +62,20 @@ stretch = 1000
 path = "CMSY10/CMSY10.otf"
 
 [[fonts]]
+family_name = "Fira Sans"
+style = "Normal"
+weight = 400
+stretch = 1000
+path = "Fira Sans/FiraSans-Regular.ttf"
+
+[[fonts]]
+family_name = "Fira Sans"
+style = "Normal"
+weight = 600
+stretch = 1000
+path = "Fira Sans/FiraSans-SemiBold.ttf"
+
+[[fonts]]
 family_name = "Geologica"
 style = "Normal"
 weight = 400
