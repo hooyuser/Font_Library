@@ -1,58 +1,16 @@
 [[fonts]]
 family_name = "Baskervville"
 style = "Normal"
-weight = 400
+weight = { min = 400, max = 700, default = 400 }
 stretch = 1000
-path = "Baskervville/Baskervville-Regular.ttf"
-
-[[fonts]]
-family_name = "Baskervville"
-style = "Normal"
-weight = 500
-stretch = 1000
-path = "Baskervville/Baskervville-Medium.ttf"
-
-[[fonts]]
-family_name = "Baskervville"
-style = "Normal"
-weight = 600
-stretch = 1000
-path = "Baskervville/Baskervville-SemiBold.ttf"
-
-[[fonts]]
-family_name = "Baskervville"
-style = "Normal"
-weight = 700
-stretch = 1000
-path = "Baskervville/Baskervville-Bold.ttf"
+path = "Baskervville/Baskervville-VariableFont_wght.ttf"
 
 [[fonts]]
 family_name = "Baskervville"
 style = "Italic"
-weight = 400
+weight = { min = 400, max = 700, default = 400 }
 stretch = 1000
-path = "Baskervville/Baskervville-Italic.ttf"
-
-[[fonts]]
-family_name = "Baskervville"
-style = "Italic"
-weight = 500
-stretch = 1000
-path = "Baskervville/Baskervville-MediumItalic.ttf"
-
-[[fonts]]
-family_name = "Baskervville"
-style = "Italic"
-weight = 600
-stretch = 1000
-path = "Baskervville/Baskervville-SemiBoldItalic.ttf"
-
-[[fonts]]
-family_name = "Baskervville"
-style = "Italic"
-weight = 700
-stretch = 1000
-path = "Baskervville/Baskervville-BoldItalic.ttf"
+path = "Baskervville/Baskervville-Italic-VariableFont_wght.ttf"
 
 [[fonts]]
 family_name = "Computer Modern Symbol"
@@ -78,9 +36,13 @@ path = "Fira Sans/FiraSans-SemiBold.ttf"
 [[fonts]]
 family_name = "Geologica"
 style = "Normal"
-weight = 400
+weight = { min = 100, max = 900, default = 100 }
 stretch = 1000
-path = "Geologica/Geologica-Regular.ttf"
+axes = [
+  { tag = "CRSV", min = 0, max = 1, default = 0 },
+  { tag = "SHRP", min = 0, max = 100, default = 0 }
+]
+path = "Geologica/Geologica-VariableFont_CRSV,SHRP,slnt,wght.ttf"
 
 [[fonts]]
 family_name = "Icon Design"
@@ -90,11 +52,20 @@ stretch = 1000
 path = "IconDesign/IconDesign-Regular.otf"
 
 [[fonts]]
-family_name = "Inter 18pt"
+family_name = "Inter"
 style = "Normal"
-weight = 600
+weight = { min = 100, max = 900, default = 400 }
 stretch = 1000
-path = "Intel/Inter_18pt-SemiBold.ttf"
+optical_size = { min = 14, max = 32, default = 14 }
+path = "Intel/Inter-VariableFont_opsz,wght.ttf"
+
+[[fonts]]
+family_name = "Inter"
+style = "Italic"
+weight = { min = 100, max = 900, default = 400 }
+stretch = 1000
+optical_size = { min = 14, max = 32, default = 14 }
+path = "Intel/Inter-Italic-VariableFont_opsz,wght.ttf"
 
 [[fonts]]
 family_name = "Latin Modern Sans"
@@ -183,128 +154,16 @@ path = "Lato/Lato-BlackItalic.ttf"
 [[fonts]]
 family_name = "Montserrat"
 style = "Normal"
-weight = 100
+weight = { min = 100, max = 900, default = 100 }
 stretch = 1000
 path = "Montserrat/Montserrat-VariableFont_wght.ttf"
 
 [[fonts]]
 family_name = "Montserrat"
-style = "Normal"
-weight = 250
-stretch = 1000
-path = "Montserrat/static/Montserrat-Thin.ttf"
-
-[[fonts]]
-family_name = "Montserrat"
-style = "Normal"
-weight = 300
-stretch = 1000
-path = "Montserrat/static/Montserrat-Light.ttf"
-
-[[fonts]]
-family_name = "Montserrat"
-style = "Normal"
-weight = 400
-stretch = 1000
-path = "Montserrat/static/Montserrat-Regular.ttf"
-
-[[fonts]]
-family_name = "Montserrat"
-style = "Normal"
-weight = 500
-stretch = 1000
-path = "Montserrat/static/Montserrat-Medium.ttf"
-
-[[fonts]]
-family_name = "Montserrat"
-style = "Normal"
-weight = 600
-stretch = 1000
-path = "Montserrat/static/Montserrat-SemiBold.ttf"
-
-[[fonts]]
-family_name = "Montserrat"
-style = "Normal"
-weight = 700
-stretch = 1000
-path = "Montserrat/static/Montserrat-Bold.ttf"
-
-[[fonts]]
-family_name = "Montserrat"
-style = "Normal"
-weight = 800
-stretch = 1000
-path = "Montserrat/static/Montserrat-ExtraBold.ttf"
-
-[[fonts]]
-family_name = "Montserrat"
-style = "Normal"
-weight = 900
-stretch = 1000
-path = "Montserrat/static/Montserrat-Black.ttf"
-
-[[fonts]]
-family_name = "Montserrat"
 style = "Italic"
-weight = 100
+weight = { min = 100, max = 900, default = 100 }
 stretch = 1000
 path = "Montserrat/Montserrat-Italic-VariableFont_wght.ttf"
-
-[[fonts]]
-family_name = "Montserrat"
-style = "Italic"
-weight = 250
-stretch = 1000
-path = "Montserrat/static/Montserrat-ExtraLightItalic.ttf"
-
-[[fonts]]
-family_name = "Montserrat"
-style = "Italic"
-weight = 300
-stretch = 1000
-path = "Montserrat/static/Montserrat-LightItalic.ttf"
-
-[[fonts]]
-family_name = "Montserrat"
-style = "Italic"
-weight = 400
-stretch = 1000
-path = "Montserrat/static/Montserrat-Italic.ttf"
-
-[[fonts]]
-family_name = "Montserrat"
-style = "Italic"
-weight = 500
-stretch = 1000
-path = "Montserrat/static/Montserrat-MediumItalic.ttf"
-
-[[fonts]]
-family_name = "Montserrat"
-style = "Italic"
-weight = 600
-stretch = 1000
-path = "Montserrat/static/Montserrat-SemiBoldItalic.ttf"
-
-[[fonts]]
-family_name = "Montserrat"
-style = "Italic"
-weight = 700
-stretch = 1000
-path = "Montserrat/static/Montserrat-BoldItalic.ttf"
-
-[[fonts]]
-family_name = "Montserrat"
-style = "Italic"
-weight = 800
-stretch = 1000
-path = "Montserrat/static/Montserrat-ExtraBoldItalic.ttf"
-
-[[fonts]]
-family_name = "Montserrat"
-style = "Italic"
-weight = 900
-stretch = 1000
-path = "Montserrat/static/Montserrat-BlackItalic.ttf"
 
 [[fonts]]
 family_name = "New Computer Modern Sans"
@@ -330,212 +189,58 @@ path = "NewCMSans10/NewCMSans10-Bold.otf"
 [[fonts]]
 family_name = "Noto Sans"
 style = "Normal"
-weight = 400
-stretch = 1000
-path = "NotoSans/NotoSans-Regular.ttf"
+weight = { min = 100, max = 900, default = 400 }
+stretch = { min = 625, max = 1000, default = 1000 }
+path = "NotoSans/NotoSans-VariableFont_wdth,wght.ttf"
 
 [[fonts]]
 family_name = "Noto Sans"
-style = "Normal"
-weight = 500
-stretch = 1000
-path = "NotoSans/NotoSans-Medium.ttf"
-
-[[fonts]]
-family_name = "Noto Sans"
-style = "Normal"
-weight = 600
-stretch = 1000
-path = "NotoSans/NotoSans-SemiBold.ttf"
-
-[[fonts]]
-family_name = "Noto Sans"
-style = "Normal"
-weight = 700
-stretch = 1000
-path = "NotoSans/NotoSans-Bold.ttf"
+style = "Italic"
+weight = { min = 100, max = 900, default = 400 }
+stretch = { min = 625, max = 1000, default = 1000 }
+path = "NotoSans/NotoSans-Italic-VariableFont_wdth,wght.ttf"
 
 [[fonts]]
 family_name = "Noto Sans Display"
 style = "Normal"
-weight = 250
-stretch = 1000
-path = "NotoSansDisplay/NotoSansDisplay-ExtraLight.ttf"
-
-[[fonts]]
-family_name = "Noto Sans Display"
-style = "Normal"
-weight = 300
-stretch = 1000
-path = "NotoSansDisplay/NotoSansDisplay-Light.ttf"
-
-[[fonts]]
-family_name = "Noto Sans Display"
-style = "Normal"
-weight = 400
-stretch = 1000
-path = "NotoSansDisplay/NotoSansDisplay-Regular.ttf"
-
-[[fonts]]
-family_name = "Noto Sans Display"
-style = "Normal"
-weight = 500
-stretch = 1000
-path = "NotoSansDisplay/NotoSansDisplay-Medium.ttf"
-
-[[fonts]]
-family_name = "Noto Sans Display"
-style = "Normal"
-weight = 600
-stretch = 1000
-path = "NotoSansDisplay/NotoSansDisplay-SemiBold.ttf"
-
-[[fonts]]
-family_name = "Noto Sans Display"
-style = "Normal"
-weight = 700
-stretch = 1000
-path = "NotoSansDisplay/NotoSansDisplay-Bold.ttf"
-
-[[fonts]]
-family_name = "Noto Sans Display"
-style = "Normal"
-weight = 800
-stretch = 1000
-path = "NotoSansDisplay/NotoSansDisplay-ExtraBold.ttf"
-
-[[fonts]]
-family_name = "Noto Sans Display"
-style = "Normal"
-weight = 900
-stretch = 1000
-path = "NotoSansDisplay/NotoSansDisplay-Black.ttf"
+weight = { min = 100, max = 900, default = 400 }
+stretch = { min = 625, max = 1000, default = 1000 }
+path = "NotoSansDisplay/NotoSansDisplay-VariableFont_wdth,wght.ttf"
 
 [[fonts]]
 family_name = "Noto Sans Display"
 style = "Italic"
-weight = 250
-stretch = 1000
-path = "NotoSansDisplay/NotoSansDisplay-ExtraLightItalic.ttf"
-
-[[fonts]]
-family_name = "Noto Sans Display"
-style = "Italic"
-weight = 300
-stretch = 1000
-path = "NotoSansDisplay/NotoSansDisplay-LightItalic.ttf"
-
-[[fonts]]
-family_name = "Noto Sans Display"
-style = "Italic"
-weight = 400
-stretch = 1000
-path = "NotoSansDisplay/NotoSansDisplay-Italic.ttf"
-
-[[fonts]]
-family_name = "Noto Sans Display"
-style = "Italic"
-weight = 500
-stretch = 1000
-path = "NotoSansDisplay/NotoSansDisplay-MediumItalic.ttf"
-
-[[fonts]]
-family_name = "Noto Sans Display"
-style = "Italic"
-weight = 600
-stretch = 1000
-path = "NotoSansDisplay/NotoSansDisplay-SemiBoldItalic.ttf"
-
-[[fonts]]
-family_name = "Noto Sans Display"
-style = "Italic"
-weight = 700
-stretch = 1000
-path = "NotoSansDisplay/NotoSansDisplay-BoldItalic.ttf"
-
-[[fonts]]
-family_name = "Noto Sans Display"
-style = "Italic"
-weight = 800
-stretch = 1000
-path = "NotoSansDisplay/NotoSansDisplay-ExtraBoldItalic.ttf"
-
-[[fonts]]
-family_name = "Noto Sans Display"
-style = "Italic"
-weight = 900
-stretch = 1000
-path = "NotoSansDisplay/NotoSansDisplay-BlackItalic.ttf"
+weight = { min = 100, max = 900, default = 400 }
+stretch = { min = 625, max = 1000, default = 1000 }
+path = "NotoSansDisplay/NotoSansDisplay-Italic-VariableFont_wdth,wght.ttf"
 
 [[fonts]]
 family_name = "Noto Sans Mono"
 style = "Normal"
-weight = 400
-stretch = 1000
-path = "NotoSansMono/NotoSansMono-Regular.ttf"
+weight = { min = 100, max = 900, default = 400 }
+stretch = { min = 625, max = 1000, default = 1000 }
+path = "NotoSansMono/NotoSansMono-VariableFont_wdth,wght.ttf"
 
 [[fonts]]
 family_name = "Noto Sans SC"
 style = "Normal"
-weight = 250
+weight = { min = 100, max = 900, default = 100 }
 stretch = 1000
-path = "NotoSansSC/NotoSansSC-ExtraLight.ttf"
-
-[[fonts]]
-family_name = "Noto Sans SC"
-style = "Normal"
-weight = 300
-stretch = 1000
-path = "NotoSansSC/NotoSansSC-Light.ttf"
-
-[[fonts]]
-family_name = "Noto Sans SC"
-style = "Normal"
-weight = 400
-stretch = 1000
-path = "NotoSansSC/NotoSansSC-Regular.ttf"
-
-[[fonts]]
-family_name = "Noto Sans SC"
-style = "Normal"
-weight = 500
-stretch = 1000
-path = "NotoSansSC/NotoSansSC-Medium.ttf"
-
-[[fonts]]
-family_name = "Noto Sans SC"
-style = "Normal"
-weight = 600
-stretch = 1000
-path = "NotoSansSC/NotoSansSC-SemiBold.ttf"
-
-[[fonts]]
-family_name = "Noto Sans SC"
-style = "Normal"
-weight = 700
-stretch = 1000
-path = "NotoSansSC/NotoSansSC-Bold.ttf"
-
-[[fonts]]
-family_name = "Noto Sans SC"
-style = "Normal"
-weight = 800
-stretch = 1000
-path = "NotoSansSC/NotoSansSC-ExtraBold.ttf"
-
-[[fonts]]
-family_name = "Noto Sans SC"
-style = "Normal"
-weight = 900
-stretch = 1000
-path = "NotoSansSC/NotoSansSC-Black.ttf"
+path = "NotoSansSC/NotoSansSC-VariableFont_wght.ttf"
 
 [[fonts]]
 family_name = "Noto Serif"
 style = "Normal"
-weight = 500
-stretch = 1000
-path = "NotoSerif/NotoSerif-Medium.ttf"
+weight = { min = 100, max = 900, default = 400 }
+stretch = { min = 625, max = 1000, default = 1000 }
+path = "NotoSerif/NotoSerif-VariableFont_wdth,wght.ttf"
+
+[[fonts]]
+family_name = "Noto Serif"
+style = "Italic"
+weight = { min = 100, max = 900, default = 400 }
+stretch = { min = 625, max = 1000, default = 1000 }
+path = "NotoSerif/NotoSerif-Italic-VariableFont_wdth,wght.ttf"
 
 [[fonts]]
 family_name = "Poppins"
@@ -664,62 +369,6 @@ stretch = 1000
 path = "Poppins/Poppins-BlackItalic.ttf"
 
 [[fonts]]
-family_name = "STIX Two Text"
-style = "Normal"
-weight = 400
-stretch = 1000
-path = "STIXTwoText/STIXTwoText-Regular.otf"
-
-[[fonts]]
-family_name = "STIX Two Text"
-style = "Normal"
-weight = 500
-stretch = 1000
-path = "STIXTwoText/STIXTwoText-Medium.otf"
-
-[[fonts]]
-family_name = "STIX Two Text"
-style = "Normal"
-weight = 600
-stretch = 1000
-path = "STIXTwoText/STIXTwoText-SemiBold.otf"
-
-[[fonts]]
-family_name = "STIX Two Text"
-style = "Normal"
-weight = 700
-stretch = 1000
-path = "STIXTwoText/STIXTwoText-Bold.otf"
-
-[[fonts]]
-family_name = "STIX Two Text"
-style = "Italic"
-weight = 400
-stretch = 1000
-path = "STIXTwoText/STIXTwoText-Italic.otf"
-
-[[fonts]]
-family_name = "STIX Two Text"
-style = "Italic"
-weight = 500
-stretch = 1000
-path = "STIXTwoText/STIXTwoText-MediumItalic.otf"
-
-[[fonts]]
-family_name = "STIX Two Text"
-style = "Italic"
-weight = 600
-stretch = 1000
-path = "STIXTwoText/STIXTwoText-SemiBoldItalic.otf"
-
-[[fonts]]
-family_name = "STIX Two Text"
-style = "Italic"
-weight = 700
-stretch = 1000
-path = "STIXTwoText/STIXTwoText-BoldItalic.otf"
-
-[[fonts]]
 family_name = "Satoshi"
 style = "Normal"
 weight = 500
@@ -732,3 +381,17 @@ style = "Normal"
 weight = 700
 stretch = 1000
 path = "Satoshi/Satoshi-Bold.otf"
+
+[[fonts]]
+family_name = "STIX Two Text"
+style = "Normal"
+weight = { min = 400, max = 700, default = 400 }
+stretch = 1000
+path = "STIXTwoText/STIXTwoText-VariableFont_wght.ttf"
+
+[[fonts]]
+family_name = "STIX Two Text"
+style = "Italic"
+weight = { min = 400, max = 700, default = 400 }
+stretch = 1000
+path = "STIXTwoText/STIXTwoText-Italic-VariableFont_wght.ttf"
