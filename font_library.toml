@@ -57,7 +57,7 @@ style = "Normal"
 weight = { min = 100, max = 900, default = 400 }
 stretch = 1000
 optical_size = { min = 14, max = 32, default = 14 }
-path = "Intel/Inter-VariableFont_opsz,wght.ttf"
+path = "Inter/Inter-VariableFont_opsz,wght.ttf"
 
 [[fonts]]
 family_name = "Inter"
@@ -65,7 +65,7 @@ style = "Italic"
 weight = { min = 100, max = 900, default = 400 }
 stretch = 1000
 optical_size = { min = 14, max = 32, default = 14 }
-path = "Intel/Inter-Italic-VariableFont_opsz,wght.ttf"
+path = "Inter/Inter-Italic-VariableFont_opsz,wght.ttf"
 
 [[fonts]]
 family_name = "Latin Modern Sans"
@@ -213,6 +213,13 @@ style = "Italic"
 weight = { min = 100, max = 900, default = 400 }
 stretch = { min = 625, max = 1000, default = 1000 }
 path = "NotoSansDisplay/NotoSansDisplay-Italic-VariableFont_wdth,wght.ttf"
+
+[[fonts]]
+family_name = "Noto Sans JP"
+style = "Normal"
+weight = { min = 100, max = 900, default = 100 }
+stretch = 1000
+path = "NotoSansJP/NotoSansJP-VariableFont_wght.ttf"
 
 [[fonts]]
 family_name = "Noto Sans Mono"
