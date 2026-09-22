@@ -68,6 +68,13 @@ optical_size = { min = 14, max = 32, default = 14 }
 path = "Inter/Inter-Italic-VariableFont_opsz,wght.ttf"
 
 [[fonts]]
+family_name = "KaTeX_AMS"
+style = "Normal"
+weight = 400
+stretch = 1000
+path = "KaTeX_AMS/KaTeX_AMS-Regular.ttf"
+
+[[fonts]]
 family_name = "Latin Modern Sans"
 style = "Normal"
 weight = 400
